@@ -1,9 +1,5 @@
-    <!-- Footer -->
-    <footer class="sticky-footer bg-white">
-        <div class="container my-auto">
-            <div class="copyright text-center my-auto">
-                <span>Copyright &copy; Your Website 2021</span>
-            </div>
-        </div>
-    </footer>
-    <!-- End of Footer -->
+<footer class="footer mt-auto py-3">
+    <div class="container">
+      <span class="text-muted">Place sticky footer content here.</span>
+    </div>
+  </footer>
